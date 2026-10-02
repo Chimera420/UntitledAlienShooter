@@ -17,7 +17,7 @@ Crosshair::~Crosshair()
 
 void Crosshair::loadCrosshair()
 {
-	m_crosshairPNG = LoadImage("resources/crosshair.png");
+	m_crosshairPNG = LoadImage("assets/png/crosshair.png");
 	m_crosshair = LoadTextureFromImage(m_crosshairPNG);
 }
 

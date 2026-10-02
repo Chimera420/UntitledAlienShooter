@@ -71,7 +71,7 @@ int main(void)
 	Vector2 rayOrigin = {};
 	Vector2 rayDirection = {};
 	bool drawRay = false;
-	Image backgroundImage = LoadImage("resources/Grid.png");
+	Image backgroundImage = LoadImage("assets/png/Grid.png");
 	Texture2D background = LoadTextureFromImage(backgroundImage);
 
 	//fill the vector of aliens
