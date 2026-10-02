@@ -4,10 +4,16 @@
 
 ## What is it?
 
-I already set up a Raylib project for you! Take it and enjoy! You don't need to know CMake!
+This is my personal Raylib project. Mainly a test for now and messing around with the README.
 
-![image](https://github.com/meemknight/raylibCmakeSetup/assets/36445656/c50ab777-0cde-4d80-8df6-a0fd483f169d)
+<img width="320" height="240" alt="ok-nice-grafic" src="https://github.com/user-attachments/assets/efa48563-11ec-4f86-bb19-92a649a58484" />
 
+THE NEXT PART SHOWS HOW TO OPEN THE PROJECT
+                    
+                    |
+                    |
+                    |
+                    v
 
 <p>Opening the Solution:</p> 
 
