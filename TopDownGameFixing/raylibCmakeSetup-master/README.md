@@ -8,7 +8,7 @@ This is my personal Raylib project. Mainly a test for now and messing around wit
 
 <img width="320" height="240" alt="ok-nice-grafic" src="https://github.com/user-attachments/assets/efa48563-11ec-4f86-bb19-92a649a58484" />
 
-THE NEXT PART SHOWS HOW TO OPEN THE PROJECT
+THE NEXT PART SHOWS HOW TO OPEN THE PROJECT. IT WAS WRITTEN BY Low Level Game Dev on YouTube.
                     
                     |
                     |
