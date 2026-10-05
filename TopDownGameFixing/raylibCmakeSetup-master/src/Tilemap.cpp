@@ -15,7 +15,8 @@ Tilemap::~Tilemap()
 
 void Tilemap::loadMap()
 {
-	m_testMap = LoadTMX("assets/tilemap/DemoMapPrototype.tmx");
+	//m_testMap = LoadTMX("assets/tilemap/DemoMapPrototype.tmx");
+	m_testMap = LoadTMX(RESOURCES_PATH "assets/tilemap/DemoMapPrototype.tmx");
 
 	if (m_testMap == nullptr)
 	{
