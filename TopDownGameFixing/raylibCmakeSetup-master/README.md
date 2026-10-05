@@ -4,11 +4,12 @@
 
 ## What is it?
 
-This is my personal Raylib project. Mainly a test for now and messing around with the README.
+This is my personal Raylib project. It is currently in it's prototyping stage  Mainly a test for now and messing around with the README.
 
 <img width="320" height="240" alt="ok-nice-grafic" src="https://github.com/user-attachments/assets/efa48563-11ec-4f86-bb19-92a649a58484" />
 
-THE NEXT PART SHOWS HOW TO OPEN THE PROJECT. IT WAS WRITTEN BY Low Level Game Dev ON YOUTUBE.
+THE NEXT PART SHOWS HOW TO OPEN THE PROJECT. IT WAS SETUP BY Low Level Game Dev ON YOUTUBE. THAT IS MAINLY THE PLACE I WENT FOR 
+INFORMATION ON HOW TO START THE RAYLIB PROJECT.
                     
                     |
                     |
